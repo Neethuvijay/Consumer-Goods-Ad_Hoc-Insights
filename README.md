@@ -1,6 +1,9 @@
 Codebasics Resume Project Challenge – 4
 
 Introduction
+
+
+
 AtliQ Hardware (imaginary company) is one of the leading computer hardware manufacturers in India, with a significant presence in international markets as well.
 
 📑 Problem Statement
